@@ -12,3 +12,15 @@ brave --new-window "$URL1" "$URL2" "$URL3" \
 
 
 
+
+#
+# new window to track the viewers
+#
+URL_MYACTION="https://tikfinity.zerody.one/widget/myactions?cid=1743254&screen=1"
+URL_TOPLIKER="https://tikfinity.zerody.one/widget/topliker?cid=1743254"
+
+brave --new-window "$URL_MYACTION" "$URL_TOPLIKER" &
+
+
+
+
