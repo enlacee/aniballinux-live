@@ -12,6 +12,6 @@ For not load the last tabs
 
 On startup > Open the New Tab page
 
-![](brave-settings-on-startup.png)
+![](./dosc/README/brave-settings-on-startup.png)
 
 
