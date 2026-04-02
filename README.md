@@ -1,4 +1,4 @@
-# 🚀 Anibal Copitan's Stream Suite
+# 🚀 AnibalLinux Stream Toolkit
 
 A collection of specialized automation tools and utilities for high-performance live streaming on **Linux**, curated by [Anibal Copitan](https://anibalcopitan.com).
 
